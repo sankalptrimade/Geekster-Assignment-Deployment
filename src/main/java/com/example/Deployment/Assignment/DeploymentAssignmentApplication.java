@@ -1,0 +1,13 @@
+package com.example.Deployment.Assignment;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DeploymentAssignmentApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DeploymentAssignmentApplication.class, args);
+	}
+
+}
